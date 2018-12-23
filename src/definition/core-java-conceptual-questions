@@ -1,7 +1,7 @@
 Please answer the below core-java Questions:
 
 What is programing language?
-A.
+A. programming languages allow us to give instructions to a computer in a language the computer understand.
 What jdk contains or composed of and define each components?
 A.
 What is IDE?
@@ -9,19 +9,37 @@ A.
 What are the IDEs available in the market to support java?
 Explain the entire java life cycle.
 what is class?
+A. Blue print of an object.
 What is object?
+A. Instance of a class.
+
 What is the entry point of an application?
 Why main is static?
+
 Which class is the superclass of all classes?
+
 What is difference between path and classpath variables?
+A:-Path is an environment variable which is used by the operating system to find the executables.
+Classpath is an environment variable which is used by the Java compiler to find the path.
 What is the difference between an Interface and Abstract class?
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
 what is Access Specifier?
+A:- The  access specifiers private and protected cannot be assigned to a class.
+
 What is OOP ? Define each feature of java OOP.
+A. Object Oriented Programming
+Features: Abstraction, Encapsulation, Inheritance, Polymorphism
 What is Java Package and which package is imported by default?
+
 What is API? Name list of API that you have used so far.
+A: An application programming interface (API) is a set of routines, protocols, and tools for building software applications.
+
+API used: scanner, random, array, exception handling, buffer reader and file reader.
+
 Does java support multiple inheritance, explain why or why not?
+
 What is method overloading and when it happens?
+
 Explain exceptions in java and how to handle it.
 What is static keyword in java? How it has been used in variables and methods ?
 What is final and how it has been used variables and methods?
@@ -32,13 +50,16 @@ If we don't have a constructor declared, what is called during the object creati
 What is "this" keyword in java ?
 What is "super" keyword in java? How many possible way can you use?
 What is JVM stand for ?
+A: Java vartual Machine
 Is JVM platform independent?
+No
 What version of java are you using?
 What is JAR stand for ?
 What is the difference between JDK and JVM?
 What is the difference between JVM and JRE?
 What is compile time and run time?
 What is heap?
+A: The heap is the runtime data area from which memory for all class instances and arrays is allocated.
 How java manage it's memory?
 What is the difference between String, StringBuffer and StringBuilder?
 What is Singleton class?
@@ -46,7 +67,10 @@ What is Serialization and Deserialization?
 when to use transient variable in java?
 Difference between while and do..while loop?
 What is Enum?
+A: - Enum in java is a data type that contains fixed set of constants
+A: Enum in java is a data type that contains fixed set of constants
 What is Iterator?
+A:  Iterator through a list of elements
 Which one will take more memory, an int or Integer?
 Why is String Immutable in Java?
 What is constructor chaining in Java?
