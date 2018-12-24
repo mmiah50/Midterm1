@@ -3,10 +3,10 @@ package algorithm;
 public class Sort {
 
     long executionTime = 0;
-	/*
-	 * Please implement all the sorting algorithm. Feel free to add helper methods.
-	 * Store all the sorted data into one of the databases.
-	 */
+    /*
+     * Please implement all the sorting algorithm. Feel free to add helper methods.
+     * Store all the sorted data into one of the databases.
+     */
 
 
     public int[] selectionSort(int [] array){
@@ -34,9 +34,6 @@ public class Sort {
     public int[] insertionSort(int [] array){
         final long startTime = System.currentTimeMillis();
         int [] list = array;
-        //implement here
-
-
 
         final long endTime = System.currentTimeMillis();
         final long executionTime = endTime - startTime;
@@ -46,38 +43,30 @@ public class Sort {
 
     public int[] bubbleSort(int [] array){
         int [] list = array;
-        //implement here
 
-        
-        
         return list;
     }
-    
+
 
     public int [] mergeSort(int [] array){
         int [] list = array;
-        //implement here
-        
-        
+
+
 
         return list;
     }
-    
 
     public int [] quickSort(int [] array){
         int [] list = array;
-        //implement here
-        
-        
+
 
         return list;
     }
-    
+
     public int [] heapSort(int [] array){
         int [] list = array;
-        //implement here
-        
-        
+
+
 
         return list;
     }
@@ -85,18 +74,16 @@ public class Sort {
 
     public int [] bucketSort(int [] array){
         int [] list = array;
-        //implement here
-        
-        
+
+
 
         return list;
     }
-    
+
     public int [] shellSort(int [] array){
         int [] list = array;
-        //implement here
-        
-        
+
+
 
         return list;
     }
