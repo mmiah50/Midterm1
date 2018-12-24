@@ -3,6 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="31b5026c-d3cc-4ba3-9ce7-c43334c5b859" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/CollectionView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/CollectionView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/datastructure/UseQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/FindLowestDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/FindLowestDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/math/problems/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/Anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamNovember2018/string/problems/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/CollectionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/problems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/Palindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,25 +39,27 @@
         <counts>
           <entry key="core-java-conceptual-questions" value="293" />
           <entry key="data-structure-questions" value="71" />
-          <entry key="java" value="434" />
+          <entry key="java" value="468" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="434" />
+          <entry key="JAVA" value="468" />
           <entry key="PLAIN_TEXT" value="364" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="data-structure-questions" value="1" />
-          <entry key="java" value="24" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="47" />
           <entry key="self-driving-car" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="47" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -49,24 +67,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructure/UseQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/math/problems/LowestNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/problems/Pattern.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,7 +80,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/problems/PrimeNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/math/problems/UnitTestingMath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -89,10 +101,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/problems/Factorial.java">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/UseQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="187">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#291#299#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,8 +116,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/UseMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="493">
+              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#485#493#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +129,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/UseArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#267#275#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,28 +141,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/DataReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/problems/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExamNovember2018.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/CollectionView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/problems/UnitTestingMath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#210#227#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,15 +202,22 @@
         <option value="$PROJECT_DIR$/src/definition/data-structure-questions" />
         <option value="$PROJECT_DIR$/src/math/problems/Pattern.java" />
         <option value="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" />
-        <option value="$PROJECT_DIR$/src/datastructure/CollectionView.java" />
         <option value="$PROJECT_DIR$/src/math/problems/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/FindLowestDifference.java" />
+        <option value="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/CollectionView.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/UseArrayList.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/UseQueue.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/UseMap.java" />
+        <option value="$PROJECT_DIR$/src/string/problems/Palindrome.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -205,7 +241,25 @@
               <item name="Midterm1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Midterm1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="databases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midterm1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midterm1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Midterm1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545606387736" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545613967756" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/project9" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -240,15 +294,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.CollectionView" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.problems.Palindrome" />
+      <module name="CodingExamNovember2018" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseArrayList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseArrayList" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -261,13 +329,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.Factorial" />
+    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseArrayList" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,13 +343,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.MakePyramid" />
+    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseMap" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,27 +357,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.Pattern" />
+    <configuration name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseQueue" />
       <module name="CodingExamNovember2018" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnitTestingMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.problems.UnitTestingMath" />
-      <module name="CodingExamNovember2018" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.problems.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,19 +401,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MakePyramid" />
-      <item itemvalue="Application.UnitTestingMath" />
-      <item itemvalue="Application.CollectionView" />
-      <item itemvalue="Application.Pattern" />
-      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.UseArrayList" />
+      <item itemvalue="Application.UseArrayList (1)" />
+      <item itemvalue="Application.UseQueue" />
+      <item itemvalue="Application.UseMap" />
+      <item itemvalue="Application.Palindrome" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Pattern" />
-        <item itemvalue="Application.UnitTestingMath" />
-        <item itemvalue="Application.CollectionView" />
-        <item itemvalue="Application.MakePyramid" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.UseMap" />
+        <item itemvalue="Application.UseQueue" />
+        <item itemvalue="Application.UseArrayList" />
+        <item itemvalue="Application.UseArrayList (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +442,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36946565" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36824876" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,7 +450,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3502455" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.28549618" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.28477904" />
       <window_info anchor="right" id="Mongo Explorer" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -497,24 +551,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codelab/status/codelab-roster-file.csv" />
-    <entry file="file://$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/problems/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/problems/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -529,13 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/problems/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -570,41 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/FindMissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/MakePyramid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/FindLowestDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/definition/data-structure-questions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -615,6 +613,20 @@
     <entry file="file://$PROJECT_DIR$/src/data/self-driving-car">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -622,10 +634,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/databases/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        <state relative-caret-position="148">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databases/UnitTestConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -638,67 +657,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/databases/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2622">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="-2654">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/databases/UnitTestConnectDB.java">
+    <entry file="file://$PROJECT_DIR$/src/math/problems/PrimeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#350#358#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/databases/User.java">
+    <entry file="file://$PROJECT_DIR$/src/string/problems/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/UseArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/UseMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/UseQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/UnitTestingMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/CollectionView.java">
+    <entry file="file://$PROJECT_DIR$/src/math/problems/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="-204">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/FindLowestDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/FindMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/LowestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/problems/MakePyramid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -712,24 +735,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/PrimeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/math/problems/UnitTestingMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/CodingExamNovember2018.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/CollectionView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/problems/LowestNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/datastructure/UseArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#267#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/UseQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#291#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/UseMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#485#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/problems/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
