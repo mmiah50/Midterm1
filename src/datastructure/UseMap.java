@@ -1,7 +1,9 @@
 package datastructure;
 
 import java.util.ArrayList;
-import java.util.Iterator;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class UseMap {
 
@@ -14,24 +16,34 @@ public class UseMap {
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 		 */
 
-		ArrayList<String> list = new ArrayList<String>();
+		Map<String, List<String>> map = new HashMap<>();
 
-		list.add("A");
-		list.add("B");
-		list.add("C");
-		list.add("D");
-		list.add("E");
+		List<String> setone = new ArrayList<>();
+		setone.add("Game Boy");
+		setone.add("Sony PlayStation 3 ");
+		setone.add("Game Gier");
 
-		// Iterator to traverse the list
-		//Iterator it = list.iterator();
-		//while (it.hasNext())
-		//System.out.print(it.next());
+		List<String> settwo = new ArrayList<String>();
+		settwo.add("Hulk");
+		settwo.add("Superman");
+		settwo.add("Batman");
 
-		//System.out.println();
+		List<String> setthree = new ArrayList<String>();
+		setthree.add("Vice");
+		setthree.add("Game of Thrones");
+		setthree.add("The Office");
 
-		for(String name: list){
-			System.out.print(name);
+		map.put("A", setone);
+		map.put("B", settwo);
+		map.put("c", setthree);
+
+		System.out.println("The corresponding values are: ");
+		for(Map.Entry<String, List<String>> entry : map.entrySet()) {
+			System.out.println(entry.getKey()+ " " + entry.getValue());
+
 		}
+
+
 	}
 }
 
